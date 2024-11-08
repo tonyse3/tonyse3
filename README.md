@@ -4,15 +4,16 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"   
  alt="LinkedIn Profile">
 </a>
-
-
-
-
-
+<a href="mailto:tsanesc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.instagram.com/tonyse3/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"   
+ alt="LinkedIn Profile">
+</a><br/>
+<!--
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
+-->
 </br>
 👩🏻‍💻 Web and cross-platform application developer<br/>
 👩🏻‍🎓 Studied at ILERNA official vocational training center!
