@@ -16,7 +16,8 @@
 -->
 </br>
 👩🏻‍💻 Web and cross-platform application developer<br/>
-👩🏻‍🎓 Studied at ILERNA official vocational training center!
+👩🏻‍🎓 Studied at ILERNA official vocational training center
+🎨 Design is my favorite part, I don't miss any detail, I like to be perfectionist!
 <br/><br/>
 
 <!-- GitHub stats from https://github.com/tonyse3/github-readme-stats -->
