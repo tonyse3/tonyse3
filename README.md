@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 👩🏻‍💻 Web and cross-platform application developer <br/>
-👩🏻‍🎓 Studied at ILERNA official vocational training center
+👩🏻‍🎓 Studied at ILERNA official vocational training center <br/>
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
