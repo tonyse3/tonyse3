@@ -1,20 +1,14 @@
 👋 Hello, my name is Toni Sanchez
 # Graphic & Web designer
-<a href="https://www.linkedin.com/in/tonyse3/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"   
+<a href="https://www.linkedin.com/in/tonyse3/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&text_decoration=none"   
  alt="LinkedIn Profile">
 </a>
-<a href="mailto:tsanesc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.instagram.com/tonyse3/" target="_blank">
+<a href="mailto:tsanesc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<!--<a href="https://www.instagram.com/tonyse3/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"   
- alt="LinkedIn Profile">
-</a><br/>
-<!--
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
--->
-</br>
+ alt="LinkedIn Profile">-->
+</a><br/></br>
 I am "website here", graphic and web designer.<br/><br/>
 
 👩🏻‍💻 Web and cross-platform application developer<br/>
@@ -45,7 +39,7 @@ I am "website here", graphic and web designer.<br/><br/>
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 🎶 Music
+## 🎶 Streaming music services I use
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)
@@ -56,7 +50,7 @@ I am "website here", graphic and web designer.<br/><br/>
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 
-## 🕹️ Gaming & Game Consoles
+## 🕹️ Gaming Experience
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
