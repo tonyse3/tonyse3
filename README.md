@@ -1,19 +1,17 @@
 👋 Hello, my name is Toni Sanchez
 # Graphic & Web designer
 <a href="https://www.linkedin.com/in/tonyse3/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&text_decoration=none"   
- alt="LinkedIn Profile">
-</a>
-<a href="mailto:tsanesc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&text_decoration=none"></a>
+<a href="mailto:tsanesc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&text_decoration=none"></a>
 <!--<a href="https://www.instagram.com/tonyse3/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"   
  alt="LinkedIn Profile">-->
 </a><br/></br>
 I am "website here", graphic and web designer.<br/><br/>
 
-👩🏻‍💻 Web and cross-platform application developer<br/>
-👩🏻‍🎓 Studied at ILERNA<br/>
-🎨 Design is my favorite part, every detail has to be unique.
+👩🏻‍💻 Also Web and cross-platform application developer<br/>
+👩🏻‍🎓 Studied at ILERNA's leading vocational training center<br/>
+🎨 Design is my favorite part, be perfectionist and surpass my limits
 <br/><br/>
 
 ## 💻 My toolset and technologies <!-- https://github.com/Ileriayo/markdown-badges -->
@@ -46,6 +44,7 @@ I am "website here", graphic and web designer.<br/><br/>
 
 ## 🎶 Streaming music services I use
 
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)
 ![Tidal](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)
