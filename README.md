@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Toni!
-
+👋 Hello, my name is Toni Sanchez
+# Graphic & Web designer
 <a href="https://www.linkedin.com/in/tonyse3/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"   
  alt="LinkedIn Profile">
@@ -15,13 +15,12 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 -->
 </br>
-👩🏻‍💻 Web and cross-platform application developer<br/>
-👩🏻‍🎓 Studied at ILERNA official vocational training center
-🎨 Design is my favorite part, I don't miss any detail, I like to be perfectionist!
-<br/><br/>
+I am "website here", graphic and web designer.<br/><br/>
 
-<!-- GitHub stats from https://github.com/tonyse3/github-readme-stats -->
-![(tonyse3's github stats](https://github-readme-stats.vercel.app/api?username=tonyse3&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+👩🏻‍💻 Web and cross-platform application developer<br/>
+👩🏻‍🎓 Studied at ILERNA<br/>
+🎨 Design is my favorite part, every detail has to be unique.
+<br/><br/>
 
 ## 💻 My toolset and technologies <!-- https://github.com/Ileriayo/markdown-badges -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -85,5 +84,7 @@
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 ![Oppo](https://img.shields.io/badge/Oppo-%231EA366.svg?style=for-the-badge&logo=oppo&logoColor=white)
 
+<!-- GitHub stats from https://github.com/tonyse3/github-readme-stats -->
+![(tonyse3's github stats](https://github-readme-stats.vercel.app/api?username=tonyse3&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tonyse3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
