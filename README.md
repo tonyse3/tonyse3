@@ -71,13 +71,6 @@ I am "website here", graphic and web designer.<br/><br/>
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
-
-## 📱 Smartphone Brands I Like
-![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
-![Oppo](https://img.shields.io/badge/Oppo-%231EA366.svg?style=for-the-badge&logo=oppo&logoColor=white)
-
 <!-- GitHub stats from https://github.com/tonyse3/github-readme-stats -->
 ![(tonyse3's github stats](https://github-readme-stats.vercel.app/api?username=tonyse3&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tonyse3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
