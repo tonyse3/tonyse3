@@ -1,5 +1,6 @@
 👋 Hello, my name is Toni Sanchez
 # Graphic & Web designer
+<!-- ![Logo](https://github.com/tonyse3/GitHub-Profile/blob/e71dcd058e216ef2584e45ba65628aaac27e69f2/logo.png) -->
 <a href="https://www.linkedin.com/in/tonyse3/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&text_decoration=none"></a>
 <a href="mailto:tsanesc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&text_decoration=none"></a>
